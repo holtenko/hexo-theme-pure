@@ -49,9 +49,9 @@ config:
 pagination:
   number: true
   prev: 
-    alwayShow: true
+    alwayShow: false
   next:
-    alwayShow: true
+    alwayShow: false
 
 # Sidebar
 sidebar: right
