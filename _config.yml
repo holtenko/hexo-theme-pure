@@ -32,8 +32,8 @@ site:
     height: 40
     url: ../images/logo.png
   title: 小天涯 # 页面title
-  favicon: ../images/favicon.png
-  board: <p><b>E-mail:</b> holten.ko@foxmail.com</p><p><b>QQ:</b> 562906376</p><p><b>微信:</b> AllenKO_</p> # 站点公告
+  favicon: favicon.ico
+  board: <p><b>E-mail:</b> holten.ko@foxmail.com</p><p><b>QQ:</b> 562906376</p> # 站点公告
   copyright: true # 底部版权信息
 
 # config
@@ -166,7 +166,7 @@ pv:
 postCount:
   enable: true
   wordcount: true  # 文章字数统计
-  min2read: true  # 阅读时长预计 
+  min2read: false  # 阅读时长预计 
 
 # Plugins
 plugins:
